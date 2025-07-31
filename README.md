@@ -9,7 +9,6 @@ Potential data sources that could be pulled from are parcel databases, landuse d
 This map displays:
 - Total number of FEMA claims per block group
 - Average year of building construction
-- Average percent of flood damage paid
 - Breakdown of claims by FEMA flood zones
 
 Interactive tooltips provide key stats for each polygon.
